@@ -8,4 +8,8 @@ package com.kgc.house.controller;
  * @Created by Administrator
  */
 public class A {
+
+    public void aa(){
+
+    }
 }
